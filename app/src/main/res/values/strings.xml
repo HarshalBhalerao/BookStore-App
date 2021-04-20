@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="login_button">Login</string>
+    <string name="user_settings_button">User Settings</string>
+    <string name="logout_button">Logout</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="sale_button">-</string>
+    <string name="prompt_email">Employee Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title_activity_book_details">BookDetailsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_user_setting">User Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="change_password">Change password</string>
+    <string name="user_settings">User Settings</string>
+    <string name="enter_old_password">Enter Old Password</string>
+    <string name="enter_new_password">Enter New Password</string>
+    <string name="confirm_new_password">Confirm New Password</string>
+    <string name="logout">Logout</string>
+    <string name="fatalError">fatal</string>
+    <string name="warning">warning</string>
+    <string name="add_employee_button">Add employee</string>
+    <string name="new_employee_name">Enter name for new employee</string>
+    <string name="new_employee_email">Enter email for new employee</string>
+    <string name="new_employee_password">Enter password for new employee</string>
+    <string name="create_user_button">Create User</string>
+    <string name="new_employee_manager">Is new employee a manager?</string>
+    <string name="textview">TextView</string>
+    <string name="book_cover_image">Book Cover Image</string>
+    <string name="change_book_price">Change book price</string>
+    <string name="change_stock_amount">Change stock amount</string>
+    <string name="set">Set</string>
+    <string name="plus_sign">+</string>
+    <string name="stock_amount">Stock Amount</string>
+    <string name="user_message">User message</string>
+</resources>

@@ -1,0 +1,3 @@
+include ':hsqldb'
+include ':app'
+rootProject.name = "BookStore"
