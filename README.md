@@ -8,14 +8,15 @@
 - Its really simple to run our app
     - Just [clone](https://github.com/HarshalBhalerao/BookStore-App.git) it from our repository 
     - Build it and run it.
+    
+**Important Note:**
+- Some of the system tests can be flaky due to Android window transitions. To fix this, disable window transition in the system settings. On the Nexus 7, this you can enable "Remove animations" in the accessibility settings. On other devices, you may need to enable developer options and disable "Window animation scale" and "Transition animation scale".
+
 
 ## Youtube video introducing our app
 <a href="https://www.youtube.com/watch?v=snwn-OyLOCc" target="_blank">
  <img src="http://img.youtube.com/vi/snwn-OyLOCc/0.jpg" alt="Watch the video" width="500" height="300" border="30" />
 </a>
-
-**Important Note:**
-- Some of the system tests can be flaky due to Android window transitions. To fix this, disable window transition in the system settings. On the Nexus 7, this you can enable "Remove animations" in the accessibility settings. On other devices, you may need to enable developer options and disable "Window animation scale" and "Transition animation scale".
 
 ## Members
 - All [team members](https://github.com/HarshalBhalerao/BookStore-App/blob/main/docs/Members.md) working on this project
