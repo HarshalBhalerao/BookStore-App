@@ -10,15 +10,9 @@
     - Build it and run it.
 
 ## Youtube video introducing our app
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/snwn-OyLOCc"
-    frameborder="0"
-    allow="encrypted-media"
-    allowfullscreen
->
-</iframe>
+<a href="https://www.youtube.com/watch?v=snwn-OyLOCc" target="_blank">
+ <img src="http://img.youtube.com/vi/snwn-OyLOCc/0.jpg" alt="Watch the video" width="500" height="300" border="30" />
+</a>
 
 **Important Note:**
 - Some of the system tests can be flaky due to Android window transitions. To fix this, disable window transition in the system settings. On the Nexus 7, this you can enable "Remove animations" in the accessibility settings. On other devices, you may need to enable developer options and disable "Window animation scale" and "Transition animation scale".
