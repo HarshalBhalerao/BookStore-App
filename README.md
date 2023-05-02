@@ -6,32 +6,43 @@
 ## How to run it?
 - We have created this app on Android Studio Version 4.1.1 and Gradle version 6.5.
 - Its really simple to run our app
-    - Just [clone](https://code.cs.umanitoba.ca/3350-winter-2021-a03/winter-2021-a03-group-10.git) it from our repository 
+    - Just [clone](https://github.com/HarshalBhalerao/BookStore-App.git) it from our repository 
     - Build it and run it.
+
+## Youtube video introducing our app
+<iframe
+    width="640"
+    height="480"
+    src="https://www.youtube.com/embed/snwn-OyLOCc"
+    frameborder="0"
+    allow="encrypted-media"
+    allowfullscreen
+>
+</iframe>
 
 **Important Note:**
 - Some of the system tests can be flaky due to Android window transitions. To fix this, disable window transition in the system settings. On the Nexus 7, this you can enable "Remove animations" in the accessibility settings. On other devices, you may need to enable developer options and disable "Window animation scale" and "Transition animation scale".
 
 ## Members
-- All [team members](https://code.cs.umanitoba.ca/3350-winter-2021-a03/winter-2021-a03-group-10/-/blob/master/docs/Members.md) working on this project
+- All [team members](https://github.com/HarshalBhalerao/BookStore-App/blob/main/docs/Members.md) working on this project
 
 ## Vision Statement
-- Our [Vision Statement](https://code.cs.umanitoba.ca/3350-winter-2021-a03/winter-2021-a03-group-10/-/blob/master/docs/VISION.md) for the project
+- Our [Vision Statement](https://github.com/HarshalBhalerao/BookStore-App/blob/main/docs/VISION.md) for the project
 
 ## Architecture 
-- Our planned [Architecture](https://code.cs.umanitoba.ca/3350-winter-2021-a03/winter-2021-a03-group-10/-/blob/master/docs/architecture.md) for our project
+- Our planned [Architecture](https://github.com/HarshalBhalerao/BookStore-App/blob/main/docs/architecture.md) for our project
 
 ## Retrospective
-- Here is the [Retrospective](https://code.cs.umanitoba.ca/3350-winter-2021-a03/winter-2021-a03-group-10/-/blob/master/docs/retrospective.md) for our project 
+- Here is the [Retrospective](https://github.com/HarshalBhalerao/BookStore-App/blob/main/docs/retrospective.md) for our project 
 
 ## Branching Strategy
-- Our planned [Branching Strategy](https://code.cs.umanitoba.ca/3350-winter-2021-a03/winter-2021-a03-group-10/-/blob/master/docs/BranchingStrategy.md) for our project
+- Our planned [Branching Strategy](https://github.com/HarshalBhalerao/BookStore-App/blob/main/docs/BranchingStrategy.md) for our project
 
 ## Iteration 1 Worksheet
-- [Worksheet link](https://code.cs.umanitoba.ca/3350-winter-2021-a03/winter-2021-a03-group-10/-/blob/master/docs/i1_worksheet.md)  
+- [Worksheet link](https://github.com/HarshalBhalerao/BookStore-App/blob/main/docs/i1_worksheet.md)  
  
 ## Iteration 2 Worksheet
-- [Worksheet link](https://code.cs.umanitoba.ca/3350-winter-2021-a03/winter-2021-a03-group-10/-/blob/master/docs/i2_worksheet.md)  
+- [Worksheet link](https://github.com/HarshalBhalerao/BookStore-App/blob/main/docs/i2_worksheet.md)  
   
 ## Iteration 3 Worksheet
-- [Worksheet link](https://code.cs.umanitoba.ca/3350-winter-2021-a03/winter-2021-a03-group-10/-/blob/master/docs/i3_worksheet.md)  
+- [Worksheet link](https://github.com/HarshalBhalerao/BookStore-App/blob/main/docs/i3_worksheet.md)  
